@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98c6849d-e902-4c7c-82a1-4061ecbbc881" name="Default Changelist" comment="" />
+    <list default="true" id="43cd0db3-7614-4a62-890e-c2c22bd88fd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LeMay_PA3/LeMay_PA3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeMay_PA3/problem1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old programs/LeMay_p1/LeMay_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old programs/LeMay_p2/LeMay_p2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeMay_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeMay_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeMay_p1/out/production/LeMay_p1/LeMay_p1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeMay_p1/src/LeMay_p1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeMay_p2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeMay_p2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeMay_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeMay_p2/SavingsAccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccountTest.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,28 +26,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SLj5odrriM0LKIlrgMrDBSgggO" />
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
+  <component name="ProjectId" id="1T1Lh2qaVLwMw5x8YU5S2X2jNOP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,15 +51,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="SavingsAccountTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SavingsAccountTest" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="LeMay_p2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="SavingsAccountTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,12 +64,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="98c6849d-e902-4c7c-82a1-4061ecbbc881" name="Default Changelist" comment="" />
-      <created>1571349589145</created>
+      <changelist id="43cd0db3-7614-4a62-890e-c2c22bd88fd5" name="Default Changelist" comment="" />
+      <created>1572622770165</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571349589145</updated>
+      <updated>1572622770165</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
